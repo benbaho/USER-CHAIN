@@ -1,12 +1,12 @@
 # USER-CHAIN
 
-Test amaçlı kullanacağımız php temelli sitenin kaynak kodlarını yükledik.
+Test amaçlı kullanacağımız php temelli sitenin kaynak kodlarını yükledik. 13.05.2022
 
-Şifreleme için kullanacağımız hash olarak md5 kullanamyı düşünüyoruz.
+Şifreleme için kullanacağımız hash olarak md5 kullanamyı düşünüyoruz. 14.05.2022
 
-Hash'ı test arayüzümüze entegre ederken hata alıyoruz onun üzerinde çalışıyoruz.
+Hash'ı test arayüzümüze entegre ederken hata alıyoruz onun üzerinde çalışıyoruz. 14.05.2022
  
-Test kullandığımız arayüz sildik. Verisini tutacağımız bölümler eklendi.
+Test kullandığımız arayüz sildik. Verisini tutacağımız bölümler eklendi. 14.05.2022
 
 ![WhatsApp Image 2022-05-14 at 15 55 55 (1)](https://user-images.githubusercontent.com/95172971/168426699-768cba8d-73dc-47a5-9c9e-11b060ccca8d.jpeg)
 
