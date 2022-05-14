@@ -8,6 +8,8 @@ Hash'ı test arayüzümüze entegre ederken hata alıyoruz onun üzerinde çalı
  
 Test kullandığımız arayüz sildik. Verisini tutacağımız bölümler eklendi. 14.05.2022
 
+Sunum için gerekli olan araştırmaları yapıyoruz. 14.05.2022
+
 ![WhatsApp Image 2022-05-14 at 15 55 55 (1)](https://user-images.githubusercontent.com/95172971/168426699-768cba8d-73dc-47a5-9c9e-11b060ccca8d.jpeg)
 
 
