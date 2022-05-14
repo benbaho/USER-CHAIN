@@ -8,3 +8,4 @@ Hash'ı test arayüzümüze entegre ederken hata alıyoruz onun üzerinde çalı
  
 Test kullandığımız arayüz sildik. Verisini tutacağımız bölümler eklendi.
 
+![Desktop - 1](https://user-images.githubusercontent.com/95172971/168424160-ab55e3ca-3208-46c7-9527-6a7742fae312.png)
